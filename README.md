@@ -1,5 +1,5 @@
 # Bitcoin Price Prediction
-This is the final project of the course "Python for Programming Business" at ESSEC Business School. 
+This is the final project of the course "Python Programming for Business" at ESSEC Business School. 
 #### Status of the project - Finished (Can be enhanced).
 
 ## Introduction/Aim of the project
