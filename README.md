@@ -46,7 +46,8 @@ The inputs included are :
 - The S&P, a stock market index measuring the stock performance of 500 large companies in the United States. We are using it as a general indicator of the US's market health. Here, we are wondering whether the Bitcoin price is affected by the US economy.
 - The price of Ethereum (ETH), another crypto currency, that we are using as a comparison measure - we are checking whether crypto currencies influence each other 
 - The exchange rate between the Dollar and the Yuan, to check whether the health of these currencies and the geopolitical implications impact Bitcoin. 
-We initially wanted to include Twitter inputs to give us more qualitative data rather than quantitative, and to showcase the public's opinion as well as experts' opinions. However, we encountered several issues with the retrieval of data, notably the fact that twitter doesn't allow for scapping >100 data points - meaning that we had data covering time periods that were way too short. We attached the Twitter data retrieved and transformed in the file Twitter_data.
+
+- We initially wanted to include Twitter inputs to give us more qualitative data rather than quantitative, and to showcase the public's opinion as well as experts' opinions. However, we encountered several issues with the retrieval of data, notably the fact that twitter doesn't allow for scapping > 100 tweets and only allows us to retrieve tweets that are a week old  - meaning that we had data covering time periods that were way too short. We attached a Jupyter Notebook on how to retrieve data from twitter and how to analyse the sentiment with VaderSentiement. If in the future Twitter allows us to scrap more than 100 tweets and older than a week feel free to use with our prediction model.
 
 ## Skills for the project
 
