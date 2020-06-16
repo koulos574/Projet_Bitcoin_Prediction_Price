@@ -48,7 +48,7 @@ We initially wanted to include Twitter inputs to give us more qualitative data r
 ## Getting Started
 
 1. Clone this repositery (gcl https://github.com/koulos574/Projet_Bitcoin_Prediction_Price)
-2. Open Jupyter Notebook and Run All
+2. Open Folder in Jupyter Notebook and Run All
 3. Have Fun :)
 
 ## Files descritpion
